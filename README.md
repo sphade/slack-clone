@@ -1,7 +1,6 @@
 # Slack Clone
 A clone of the official slack web application, created by LAWAL ADEBOLA
-The Live App can be found [here]()
-## ![slack](https://user-images.githubusercontent.com/85949974/132678845-75532365-a846-4930-929a-d4621fab9437.JPG)
+The Live App can be found here by [clicking on this link](https://slack-site.netlify.app/)
 
 ## The Features
 - auth users can create new channels
@@ -27,3 +26,8 @@ The Live App can be found [here]()
 
 ## Stage
 this project is currently finished though i wish to implement greater features in the nearest future
+The live project can be found here || https://slack-site.netlify.app/
+
+#### picture
+![slack](https://user-images.githubusercontent.com/85949974/132678845-75532365-a846-4930-929a-d4621fab9437.JPG)
+
