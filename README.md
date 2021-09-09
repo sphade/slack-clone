@@ -7,8 +7,8 @@ The Live App can be found here by [clicking on this link](https://slack-site.net
 - users can chat in channels
 - users can change user name and profile pictures
 - users can switch between channels
-- automati scroll to bottom on messeage send
-fi live
+- automatic scroll to bottom on messeage send
+
 ## STACK
 - react
 - redux
